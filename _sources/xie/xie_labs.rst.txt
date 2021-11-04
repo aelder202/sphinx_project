@@ -7,4 +7,4 @@ Xie Labs
    :caption: Table of Contents
    
    linux_bridge
-   redacted_info
+   redacted
